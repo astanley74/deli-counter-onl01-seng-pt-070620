@@ -8,5 +8,6 @@ def line(katz_deli)
     katz_deli.each_with_index do |name, index|
       new_line << "#{index}. #{name}"
     end
+  puts new_line
   end
 end
