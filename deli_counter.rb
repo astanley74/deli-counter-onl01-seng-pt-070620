@@ -11,3 +11,7 @@ def line(katz_deli)
   puts new_line
   end
 end
+
+def take_a_number(katz_deli, new_person)
+  
+end
